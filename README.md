@@ -1,4 +1,5 @@
-### Hi there 👋
+👋 Hi, I’m @amir-ben-shimol.
+👀 I’m interested in FS development.
 
 <!--
 **amir-ben-shimol/amir-ben-shimol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
