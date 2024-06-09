@@ -1,4 +1,4 @@
-![Profile View Counter](https://img.shields.io/badge/any_text-you_like-blue)
+![Profile View Counter](https://img.shields.io/badge/sound_a_bit-you_like-blue)
 
  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-ben-shimol&theme=blue-green)
