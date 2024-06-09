@@ -1,4 +1,4 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=amir-ben-shimol)
+![Profile View Counter](https://img.shields.io/badge/sound-a-bit_fishy-blue)
  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-ben-shimol&theme=blue-green)
 
