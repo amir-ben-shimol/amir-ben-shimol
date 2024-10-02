@@ -1,4 +1,3 @@
-# 🧀
 I’m a software developer and open-sourcerer. I mostly code JavaScript.<br>I consult small-size startups with technology design or issues.
 
 
